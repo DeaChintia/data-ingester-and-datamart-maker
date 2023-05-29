@@ -1,6 +1,6 @@
 from packages.PgToSfDataIngester import PgToSfDataIngester
-from connparams.ConnectionParams import PG_CONN_PARAMS
-from connparams.ConnectionParams import SF_CONN_PARAMS
+from ConnectionParams import PG_CONN_PARAMS
+from ConnectionParams import SF_CONN_PARAMS
 import packages.SfCreateDatamartSQL as SfMartSQL
 import psycopg2
 import snowflake.connector

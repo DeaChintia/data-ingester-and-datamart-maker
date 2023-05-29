@@ -2,8 +2,8 @@ import psycopg2
 import snowflake.connector
 import csv
 import os
-from connparams.ConnectionParams import PG_CONN_PARAMS
-from connparams.ConnectionParams import SF_CONN_PARAMS
+from ConnectionParams import PG_CONN_PARAMS
+from ConnectionParams import SF_CONN_PARAMS
 
 # Created By: Dea Chintia Putri
 class PgToSfDataIngester:
