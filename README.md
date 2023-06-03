@@ -14,7 +14,7 @@
 - Snowflake
 - Google Looker Studio
 
-## Dashboard ([Looker Studio Link](https://lookerstudio.google.com/reporting/223f1be7-539d-47ff-9687-607d3e2acf9f))
+## Dashboard
 ![alt text](img/dashboard1.png "Dashboard 1")
 ![alt text](img/dashboard2.png "Dashboard 2")
 ![alt text](img/dashboard3.png "Dashboard 3")
